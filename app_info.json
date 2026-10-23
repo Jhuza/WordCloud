@@ -1,0 +1,18 @@
+{
+  "slug": "WordCloud",
+  "entry": "Inicio.py",
+  "title": "Nube de palabras",
+  "category": "Texto",
+  "headline": "Las palabras.",
+  "accent": "En perspectiva.",
+  "description": "Convierte las frecuencias de un texto en una composición visual descargable.",
+  "input": "Texto escrito, archivo TXT o columna de un CSV.",
+  "output": "Nube PNG, frecuencias y tabla descargable en CSV.",
+  "steps": "En el panel lateral ingresa el texto, ajusta las palabras excluidas y la apariencia, y pulsa Generar nube.",
+  "technology": "WordCloud · Counter · Matplotlib",
+  "limits": "El tamaño representa frecuencia, no relevancia semántica. Los filtros modifican los términos visibles.",
+  "image": "data_analisis.png",
+  "url": "https://wordcloud-2n68s7atxg6xhpcxyzmamt.streamlit.app/",
+  "repo": "https://github.com/Jhuza/WordCloud",
+  "kind": "document"
+}
